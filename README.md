@@ -1,6 +1,2 @@
-# Lab3
-
-"Project Team Members: "
-Arii Sharma
+Arii Shama
 Nicolas Gianos
-
