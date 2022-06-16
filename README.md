@@ -1,3 +1,2 @@
-
-Arii Sharma
-Logan Assalley
+Arii Shama
+Nicolas Gianos
